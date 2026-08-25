@@ -50,7 +50,7 @@ window.CONFIG = {
     localizacao: true,
     presentes: true,
     dresscode: true,
-    manual: true,
+    manual: false,
     contagem: false
   },
 
@@ -78,9 +78,8 @@ window.CONFIG = {
   // mostrarTexto: true mostra “Voltar”; false deixa apenas a área clicável.
   // A posição pode ser alterada no editor ?editor=1.
   botoesVoltar: {
-    presentes: { mostrarTexto:true, posicao: {"left":3.0865908296725224,"top":1.2698621493979574,"width":20.20446972344249,"height":7.495966539354989} },
-    manual: { mostrarTexto:true, posicao: {"left":3.7,"top":1.5,"width":18.77316605930511,"height":7.956272420125552} },
-    dresscode: { mostrarTexto:true, posicao: {"left":3.7,"top":1.5,"width":18.77316605930511,"height":7.956272420125552} }
+    presentes: { mostrarTexto:false, posicao: {"left":3.0865908296725224,"top":1.2698621493979574,"width":20.20446972344249,"height":7.495966539354989} },
+    dresscode: { mostrarTexto:false, posicao: {"left":3.7,"top":1.5,"width":18.77316605930511,"height":7.956272420125552} }
   },
 
   // ----- POSIÇÃO DOS BOTÕES NA TELA PRINCIPAL ----------------------------
@@ -92,7 +91,6 @@ window.CONFIG = {
         confirm: { left:25.449686064098174, top:60.466030655199084, width:19.64355312204473, height:11.449252034014982 },
         map: { left:55.00868653749942, top:60.12078059785067, width:19.292465283626143, height:11.399863780795407 },
         gift: { left:25.56607738805926, top:76.10537095759099, width:19.567092651757186, height:11.52034966267883 },
-        manual: { left:54.19227547112636, top:76.22044399828745, width:19.567092651757186, height:11.52034966267883 },
         dress: { left:54.19227547112636, top:76.22044399828745, width:19.567092651757186, height:11.52034966267883 }
   },
 
