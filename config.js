@@ -78,7 +78,7 @@ window.CONFIG = {
   // mostrarTexto: true mostra “Voltar”; false deixa apenas a área clicável.
   // A posição pode ser alterada no editor ?editor=1.
   botoesVoltar: {
-    presentes: { mostrarTexto:false, posicao: {"left":27.21437699680511,"top":91.83373234012491,"width":42.69648250299521,"height":4.734171859966461} },
+    presentes: { mostrarTexto:false, posicao: {"left":27.009907273362618,"top":95.63119536016933,"width":43.923332043730035,"height":3.5834238939814442} },
     dresscode: { mostrarTexto:false, posicao: {"left":30.076999925119807,"top":92.40909150769389,"width":39.015980680910545,"height":4.388954932754658} }
   },
 
@@ -88,10 +88,10 @@ window.CONFIG = {
   //   left/top: canto superior esquerdo do botão
   //   width/height: tamanho do botão
     hotspots: {
-        confirm: { left:14.817104444689228, top:86.47293732031353, width:12.691473324720448, height:7.421638542822542 },
-        map: { left:34.35693246900901, top:86.24274274464109, width:12.544855209744354, height:7.372245899847848 },
-        gift: { left:53.578835100719004, top:86.34702083124945, width:12.410543130990412, height:7.492731781731272 },
-        dress: { left:73.20824055199697, top:86.231947790553, width:12.20607340754792, height:7.6078136019379645 }
+        confirm: { left:10.932117299122137, top:88.31413230998751, width:12.691473324720448, height:7.421638542822542 },
+        map: { left:33.13009852831412, top:88.54423867661113, width:12.544855209744354, height:7.372245899847848 },
+        gift: { left:54.39671399448897, top:88.87867162412263, width:12.410543130990412, height:7.492731781731272 },
+        dress: { left:75.86639375686917, top:88.76359858342617, width:12.20607340754792, height:7.6078136019379645 }
   },
 
   // ----- CONTAGEM REGRESSIVA ---------------------------------------------
